@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angel7544" alt="angel7544" /></a> </p>
 
-- 🔭 I’m currently working on **SIH:- Soon Updated**
+- 🔭 I’m currently working on **Techphilia 7.0:- (https://aiitpevent.in)**
 
 - 🌱 I’m currently learning **C++,**
 
