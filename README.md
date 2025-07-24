@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angel7544" alt="angel7544" /></a> </p>
 
-- 🔭 I’m currently working on **Techphilia 7.0:- (https://aiitpevent.in)**
+- 🔭 I’m currently working on **BR31-Technologies :- (https://www.br31tech.live))**
 
-- 🌱 I’m currently learning **C++,**
+- 🌱 I’m currently learning **AI & ML,Prompt Engineering,Risk Management**
 
-- 👯 I’m looking to collaborate on [Portfolio](angelsingh.vercel.app)
+- 👯 I’m looking to collaborate on [Portfolio](https://www.br31tech.live))
 
-- 👨‍💻 All of my projects are available at [angelsingh.vercel.app](angelsingh.vercel.app)
+- 👨‍💻 All of my projects are available at [Projects](https://www.br31tech.live/products)
 
 - 📝 I regularly write articles on [techm3hul.blogspot.com](techm3hul.blogspot.com)
 
@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **angelsingh2199@gmail.com**
 
-- 📄 Know about my experiences [angelsingh.vercel.app](angelsingh.vercel.app)
+- 📄 Know about my experiences [Experiences/Resume](https://www.br31tech.live/resume)
 
-- ⚡ Fun fact **BHOLU_DHOLU**
+- ⚡ Fun fact **head up ego down**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
