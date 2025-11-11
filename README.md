@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://www.br31tech.live/products)
 
-- 📝 I regularly write articles on [BR31TECH BLOGS](blogs.br31tech.live)
+- 📝 I regularly write articles on [BR31TECH BLOGS](https://blogs.br31tech.live)
 
 - 💬 Ask me about **AWS, KALI , GIT, AI Prompt**
 
