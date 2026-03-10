@@ -4,17 +4,6 @@
 <p align="center">
 Building scalable systems, experimenting with AI, and solving real-world problems through software.
 </p>
-
-<p align="left">
-<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=angel7544)](https://github.com/ryo-ma/github-profile-trophy)" alt="angel7544" />
-</p>
-
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=angel7544&theme=flat&no-frame=true" alt="angel7544" />
-</a>
-</p>
-
 ---
 
 ## 🚀 Current Work
