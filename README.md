@@ -1,23 +1,95 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">A passionate AWS,AI Prompt,LINUX, CyberSecurity expert from India</h3>
+<h3 align="center">System Builder | Cloud & AI Enthusiast | Open Source Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angel7544&label=Profile%20views&color=0e75b6&style=flat" alt="angel7544" /> </p>
+<p align="center">
+Building scalable systems, experimenting with AI, and solving real-world problems through software.
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angel7544" alt="angel7544" /></a> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=angel7544&label=Profile%20views&color=0e75b6&style=flat" alt="angel7544" />
+</p>
 
-- 🔭 I’m currently working on **EduOrbit:- (https://eduorbit.br31tech.live))**
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=angel7544&theme=flat&no-frame=true" alt="angel7544" />
+</a>
+</p>
 
-- 🌱 I’m currently learning **AI & ML,Prompt Engineering,Risk Management**
+---
 
-- 👯 I’m looking to collaborate on [LMS](https://lms.br31tech.live))
+## 🚀 Current Work
 
-- 👨‍💻 All of my projects are available at [Projects](https://www.br31tech.live/products)
+- 🔭 Building **EduOrbit** – a Learning Management System  
+  https://eduorbit.br31tech.live
 
-- 📝 I regularly write articles on [BR31TECH BLOGS](https://blogs.br31tech.live)
+- 🛰 Developing **EduCaster** – video encoding & delivery system for online classes
 
-- 💬 Ask me about **AWS, KALI , GIT, AI Prompt**
+- 🌱 Currently exploring  
+  **AI Systems • Prompt Engineering • Machine Learning • Risk & System Design**
 
-- 📫 How to reach me **angelsingh2199@gmail.com**
+- 👯 Open to collaboration on **EdTech platforms, LMS systems, and scalable backend systems**
+
+---
+
+## 🧠 Projects & Products
+
+You can explore my projects here:
+
+🌐 https://www.br31tech.live/products
+
+Some notable work includes:
+
+- 📚 **EduOrbit** – LMS platform for online education  
+- 🎥 **EduCaster** – scalable lecture video processing architecture  
+- 🗺 **GIS-based applications** for location-based data systems  
+- 💰 **Expense Tracker & Ledger systems** for business management tools  
+- ⚙️ Various productivity and automation tools
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+I regularly write about **technology, system design, cloud infrastructure, and AI**.
+
+📝 https://blogs.br31tech.live
+
+---
+
+## 💬 Ask Me About
+
+- Cloud & Infrastructure Concepts  
+- System Design Thinking  
+- AI Prompt Engineering  
+- Linux & Security Basics  
+- Building scalable software products
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=angel7544&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=angel7544" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel7544&layout=compact" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+🌐 Portfolio: https://www.br31tech.live  
+📝 Blog: https://blogs.br31tech.live  
+💻 GitHub: https://github.com/angel7544
+
+---
+
+⭐ *I enjoy building systems, exploring new technologies, and contributing to projects that solve meaningful problems.*
 
 - 📄 Know about my experiences [Experiences/Resume](https://angel.br31tech.live/resume)
 
