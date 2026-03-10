@@ -6,7 +6,7 @@ Building scalable systems, experimenting with AI, and solving real-world problem
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=angel7544&label=Profile%20views&color=0e75b6&style=flat" alt="angel7544" />
+<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=angel7544)](https://github.com/ryo-ma/github-profile-trophy)" alt="angel7544" />
 </p>
 
 <p align="left">
