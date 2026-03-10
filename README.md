@@ -4,7 +4,6 @@
 <p align="center">
 Building scalable systems, experimenting with AI, and solving real-world problems through software.
 </p>
----
 
 ## 🚀 Current Work
 
