@@ -8,7 +8,7 @@ Building scalable systems, experimenting with AI, and solving real-world problem
 ## 🚀 Current Work
 
 - 🔭 Building **EduOrbit** – a Learning Management System  
-  https://eduorbit.br31tech.live
+  https://eduorbit.br31tech.in
 
 - 🛰 Developing **EduCaster** – video encoding & delivery system for online classes
 
