@@ -23,7 +23,7 @@ Building scalable systems, experimenting with AI, and solving real-world problem
 
 You can explore my projects here:
 
-🌐 https://www.br31tech.live/products
+🌐 https://www.br31tech.in/products
 
 Some notable work includes:
 
@@ -39,7 +39,7 @@ Some notable work includes:
 
 I regularly write about **technology, system design, cloud infrastructure, and AI**.
 
-📝 https://blogs.br31tech.live
+📝 https://blogs.br31tech.in
 
 ---
 
